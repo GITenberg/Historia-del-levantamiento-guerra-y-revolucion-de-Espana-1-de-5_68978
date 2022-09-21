@@ -1,0 +1,27 @@
+_repo: Historia-del-levantamiento-guerra-y-revolucion-de-Espana-1-de-5_68978
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Toreno, Conde de
+    gutenberg_agent_id: '55038'
+    url: http://www.gutenberg.org/2009/agents/55038
+description: ''
+gutenberg_issued: '2022-09-12'
+identifiers:
+  gutenberg: '68978'
+language: es
+pgterms:marc904: https://archive.org/details/historiadellevan01toreuoft
+pgterms:marc905: 20200307111924toreno
+pgterms:marc906: '1835'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: Spain :Imprenta de don Tomás Jordán,1835.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Historia del levantamiento, guerra y revolución de España (1 de 5)
+url: http://www.gutenberg.org/ebooks/68978
